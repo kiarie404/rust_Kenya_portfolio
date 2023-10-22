@@ -13,8 +13,8 @@ Contribute to the community portfolio site.
 - Rust 
 
 ### Pull Request Wordy mouthpiece
-Here is the Demo website : Link  
-Here is the Discord Server : Link
+Here is the Demo website : [Link](https://kiarie404.github.io/rust_Kenya_portfolio/)  
+Here is the Discord Server : [Link](https://discord.gg/UAPrn6whHY)
 
 ### To-Do list
 - [x] Create a discord server for rust Community (This will act as the COMMON communication point)
