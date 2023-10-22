@@ -25,14 +25,14 @@ Here is the Discord Server : Link
   - [ ] Work on SEO of the website
 - [ ] Port the website on the Leptos framework. Convert the JS scripts to Rust code
 - [ ] Write the Contribution Guide
-- [ ] Write/record a tutorial on navigating discord channel
+- [ ] Write/record a tutorial on navigating the discord channel
 
 
 ## Propositions, Explanations
 
 ### Communication
 I was proposing that we use Discord as the main communiation platform. One place for all dicussions.  
-The Channels feature in discord will help keep discussions to be topic-specific. Discussions will be more organized. Check out how I've organized them : [this link](https://discord.gg/kQtSXHaH)   
+The Channels feature in discord will help keep discussions to be topic-specific. Discussions will be more organized. Check out how I've organized them : [this link](https://discord.gg/UAPrn6whHY)   
 
 Twitter can remain for publicity.  
 Telegram is too disorganized, let's gradually shift people from there to discord. Telegram works but the discussions on telegram are disorganized.  
@@ -40,7 +40,7 @@ Telegram is too disorganized, let's gradually shift people from there to discord
 Discord servers sometimes go down or they become slow. This is a disadvantage.  
 Slack is not free, but I guess that it would have been the best bet.  
 
-Here is the Discord server invite-link : [this link](https://discord.gg/kQtSXHaH)
+Here is the Discord server invite-link : [this link](https://discord.gg/UAPrn6whHY)
 
 
 ### Contacts
